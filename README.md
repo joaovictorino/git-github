@@ -1,4 +1,8 @@
-# Git e GitHub
+# Git & GitHub
+
+## Instalação VSCode e Git
+[VSCode no Windows](https://www.youtube.com/watch?v=57iaJtuKL_I)   
+[Git no Windows]()
 
 ## Aula 01
 [Configurações do Git](https://gist.github.com/joaovictorino/bc39182cb86e5b89c60737cb98967ee7)   
