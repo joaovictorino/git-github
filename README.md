@@ -2,9 +2,11 @@
 
 ## Instalação VSCode e Git
 [VSCode no Windows](https://www.youtube.com/watch?v=57iaJtuKL_I)   
-[Git no Windows]()
+[Git no Windows FAZER]()
 
 ## Aula 01
+[Criando um repositório no GitHub](https://gist.github.com/joaovictorino/85a092cab5cec27eb7d0bd90323e8df0)
+[Usando VSCode na web (Codespaces) CRIAR]()
 [Configurações do Git](https://gist.github.com/joaovictorino/bc39182cb86e5b89c60737cb98967ee7)   
 [Inicializando repositório em uma pasta](https://gist.github.com/joaovictorino/17ef62645b3fbefa8351629531bbe5b1)   
 [Entendendo os três estados](https://gist.github.com/joaovictorino/f22c5a398417b973c9cb21a164505ced)   
