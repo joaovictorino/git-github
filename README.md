@@ -1,7 +1,7 @@
 # Git & GitHub
 
 ## Instalação VSCode e Git
-[Git no Windows](https://www.youtube.com/watch?v=6CsxUwXUsF4)   
+[Git no Windows](https://www.youtube.com/watch?v=_RcVweTCvRE)   
 [VSCode no Windows](https://www.youtube.com/watch?v=U-bpubNFMm8)   
 
 ## Aula 01
