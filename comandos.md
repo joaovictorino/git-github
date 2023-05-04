@@ -46,6 +46,7 @@ git restore --staged [caminho do arquivo no staging]
 ### Git diff
 ````sh
 git diff # Mostra a diferença entre arquivos e commits.
+git diff --staged
 git diff [commit id|commit tag|main] [commit id|commit tag|origin/main]
 ````
 
