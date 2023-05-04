@@ -12,7 +12,9 @@
 [Configurações do Git](https://gist.github.com/joaovictorino/bc39182cb86e5b89c60737cb98967ee7)   
 [Acessando GitHub com Git localmente](https://gist.github.com/joaovictorino/9866497c7d9ac61d062a4c8b377a4a51)   
 [Entendendo os três estados de trabalho](https://gist.github.com/joaovictorino/f22c5a398417b973c9cb21a164505ced)   
-[Entendendo os três estados novamente](https://gist.github.com/joaovictorino/7867cdc76e18bbf1344c9759ae07f49e)   
+[Praticando os estados de um arquivo](https://gist.github.com/joaovictorino/7867cdc76e18bbf1344c9759ae07f49e)   
+[Desfazendo mudanças de estados](https://gist.github.com/joaovictorino/5c4d7aa773551decbc68deafb0c3831e)   
+[Testando o gitignore](https://gist.github.com/joaovictorino/b2290e882987a19dd82fc91257d882fd)   
 
 
 ## Aula 02
