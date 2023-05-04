@@ -17,6 +17,7 @@
 [Testando o gitignore](https://gist.github.com/joaovictorino/b2290e882987a19dd82fc91257d882fd)   
 [Empurrando commits para o repositório remoto](https://gist.github.com/joaovictorino/1a9db06511359e0812c2007fcbed72f5)   
 [Puxando commits do repositório remoto](https://gist.github.com/joaovictorino/89fa082a0f8237a71af966308cd44875)   
-[Buscando atualizações no repositório remoto](https://gist.github.com/joaovictorino/68eb3ce31ae63f18bfe05dad5b51f209)
+[Buscando atualizações no repositório remoto](https://gist.github.com/joaovictorino/68eb3ce31ae63f18bfe05dad5b51f209)   
+[Salvando o trabalho temporariamente](https://gist.github.com/joaovictorino/b84a38da3a555e0ef5586341a76c2b43)
 
 ## Aula 02
