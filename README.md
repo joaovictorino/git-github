@@ -18,6 +18,7 @@
 [Empurrando commits para o repositório remoto](https://gist.github.com/joaovictorino/1a9db06511359e0812c2007fcbed72f5)   
 [Puxando commits do repositório remoto](https://gist.github.com/joaovictorino/89fa082a0f8237a71af966308cd44875)   
 [Buscando atualizações no repositório remoto](https://gist.github.com/joaovictorino/68eb3ce31ae63f18bfe05dad5b51f209)   
+[Resolvendo conflitos](https://gist.github.com/joaovictorino/52319306047f139a65587441e921ee6d)   
 [Salvando o trabalho temporariamente](https://gist.github.com/joaovictorino/b84a38da3a555e0ef5586341a76c2b43)
 
 ## Aula 02
