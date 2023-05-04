@@ -53,6 +53,7 @@ git diff [commit id|commit tag|main] [commit id|commit tag|origin/main]
 ### Git pull
 ````sh
 git pull # Puxa as alterações de um repositório remoto.
+git pull --no-ff
 ````
 
 ### Git push
