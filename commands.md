@@ -10,6 +10,7 @@ git clone [url repositório] [pasta (opcional)] # Copia um repositório de um lo
 ### Git log
 ````sh
 git log [--oneline|--stat|--patch] # Mostra o histórico de commits.
+git log [commit id|commit tag|main]..[commit id|commit tag|origin/main]
 ````
 
 ### Git config
@@ -37,11 +38,37 @@ git status # Verifica a situação do “staging” e “working directory”.
 ````
 
 ### Git restore
+````sh
+git restore [caminho do arquivo no working directory] # Desfaz mudanças de estados do “staging” e “working directory”.
+git restore --staged [caminho do arquivo no staging]
+````
 
-git diff: Show the difference between files.
-git pull: Pull changes from a remote repository.
-git push: Push changes to a remote repository.
-git fetch
-git stash
+### Git diff
+````sh
+git diff # Mostra a diferença entre arquivos e commits.
+git diff [commit id|commit tag|main] [commit id|commit tag|origin/main]
+````
+
+### Git pull
+````sh
+git pull # Puxa as alterações de um repositório remoto.
+````
+
+### Git push
+````sh
+git push # Empurra alterações para um repositório remoto.
+````
+
+### Git fetch
+````sh
+git fetch # Busca atualizações do repositório remoto, sem alterar o repositório local.
+````
+
+### Git stash
+````sh
+git stash --message=[mensagem descritiva do stash] # Salva suas alterações atuais em um armazenamento temporário.
+git stash list
+git stash pop
+````
 
 ## Aula 02
