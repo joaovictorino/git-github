@@ -23,3 +23,9 @@
 
 ## Aula 02
 [Revertendo commits criados](https://gist.github.com/joaovictorino/524b3260c3e2196f641be8b41db387ac)   
+[Restaurando versões anteriores](https://gist.github.com/joaovictorino/7fd68cd68fd685fb91eec23149a13f1c)   
+[Navegando pelo histórico do projeto](https://gist.github.com/joaovictorino/0589734f6eaa17611d5ea37b16a3e6d4)   
+[Criando branchs](https://gist.github.com/joaovictorino/963a7bdb2ce3ecea09817dd93f1e4ce2)   
+[Unindo branchs](https://gist.github.com/joaovictorino/dc369ad4ee487da0c6c8e2f4304cf7b4)   
+[Resolvendo conflitos de merge](https://gist.github.com/joaovictorino/80f98019e558912e565a539a02a6a627)   
+[Usando tags](https://gist.github.com/joaovictorino/554bb686b0d491738d61513fa1b9a2e3)   
