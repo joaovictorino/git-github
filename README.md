@@ -22,3 +22,4 @@
 [Salvando o trabalho temporariamente](https://gist.github.com/joaovictorino/b84a38da3a555e0ef5586341a76c2b43)
 
 ## Aula 02
+[Revertendo commits criados](https://gist.github.com/joaovictorino/524b3260c3e2196f641be8b41db387ac)   
