@@ -1,7 +1,5 @@
 # Comandos Git
 
-## Aula 01
-
 ### Git clone
 ````sh
 git clone [url repositório] [pasta (opcional)] # Copia um repositório de um local remoto.
