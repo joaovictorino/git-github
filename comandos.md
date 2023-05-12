@@ -63,6 +63,7 @@ git push # Empurra alterações para um repositório remoto.
 git push [origem remota] [nome do branch] # Empurra commits e branch para uma origem remota.
 git push [origem remota] --delete [nome do branch] # Apaga um branch na origem remota.
 git push --tags
+git push --delete [nome do repositório remoto] [nome da tag]
 git push --all
 git push --force
 ````
@@ -117,6 +118,7 @@ git merge [nome do branch] # Mescla commits de outro branch para outro.
 ```sh
 git tag [nome da tag] -m [mensagem da tag] # Cria uma marcação no histórico do projeto, uma etiqueta vinculada a um commit.
 git tag [nome da tag] [codigo commit] -m [mensagem da tag]
+git tag -d [nome da tag]
 ```
 
 ### Git init
