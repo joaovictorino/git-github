@@ -19,7 +19,8 @@
 [Puxando commits do repositório remoto](https://gist.github.com/joaovictorino/89fa082a0f8237a71af966308cd44875)   
 [Buscando atualizações no repositório remoto](https://gist.github.com/joaovictorino/68eb3ce31ae63f18bfe05dad5b51f209)   
 [Resolvendo conflitos](https://gist.github.com/joaovictorino/52319306047f139a65587441e921ee6d)   
-[Salvando o trabalho temporariamente](https://gist.github.com/joaovictorino/b84a38da3a555e0ef5586341a76c2b43)
+[Salvando o trabalho temporariamente](https://gist.github.com/joaovictorino/b84a38da3a555e0ef5586341a76c2b43)   
+[Trabalhando em times organizadamente](https://gist.github.com/joaovictorino/49b811f173d8c689f6c6f6b563bf283c)   
 
 ## Aula 02
 [Revertendo commits criados](https://gist.github.com/joaovictorino/524b3260c3e2196f641be8b41db387ac)   
@@ -29,3 +30,11 @@
 [Unindo branchs](https://gist.github.com/joaovictorino/dc369ad4ee487da0c6c8e2f4304cf7b4)   
 [Resolvendo conflitos de merge](https://gist.github.com/joaovictorino/80f98019e558912e565a539a02a6a627)   
 [Usando tags](https://gist.github.com/joaovictorino/554bb686b0d491738d61513fa1b9a2e3)   
+[Criando os branchs do Git Flow](https://gist.github.com/joaovictorino/972b8642f45cced666009238f7c7bf09)   
+[Issue, Fork e Pull Request](https://gist.github.com/joaovictorino/ddb27bbbbc61aa9c8ca3010288076259)   
+[Testando distribuição Git](https://gist.github.com/joaovictorino/7b4bca6c11379436bf01c5927cff814d)   
+[Entendendo git blame](https://gist.github.com/joaovictorino/4531b1c6b9b9613e833a1aa303e7b673)   
+[Atualizando meu branch](https://gist.github.com/joaovictorino/0470cc0ed1b65241a49dea120d89c6d7)   
+[Unindo meus commits](https://gist.github.com/joaovictorino/0fed2fcb007e07fd6436e3c70ff6322a)   
+[Buscando um commit em outro branch](https://gist.github.com/joaovictorino/7a6cb6907b3d73e0729cf95357b021cb)   
+[Desfazendo commits](https://gist.github.com/joaovictorino/13c13a73e6e82f46a07c138bdb09f1aa)   
