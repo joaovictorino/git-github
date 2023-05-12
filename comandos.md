@@ -110,7 +110,7 @@ git switch [nome branch] # Navega entre branchs assim como o "git checkout".
 
 ### Git merge
 ```sh
-git merge [nome do branch] # Busca os commits de outro branch mesclando com o branch atual.
+git merge [nome do branch] # Mescla commits de outro branch para outro.
 ```
 
 ### Git tag
@@ -121,8 +121,8 @@ git tag [nome da tag] [codigo commit] -m [mensagem da tag]
 
 ### Git init
 ```sh
-git init # Inicializa uma pasta para o git.
-git init --bare # Inicializa uma pasta para o git como servidor.
+git init # Inicializa um repositório git.
+git init --bare # Inicializa um repositório git como servidor.
 ```
 
 ### Git remote
@@ -134,13 +134,13 @@ git remote remove [nome da origem]
 
 ### Git blame
 ```sh
-git blame [caminho do arquivo] # Mostra quem criou ou alterou cada linha do arquivo.
+git blame [caminho do arquivo] # Mostra quem criou ou alterou cada linha de um arquivo.
 ```
 
 ### Git rebase
 ```sh
 git rebase [nome do branch] # Busca os commits e mescla com o repositório atual, mexendo no histórico.
-git rebase -i [ponteiro HEAD] # Reescreve o histórico do projeto.
+git rebase -i [ponteiro HEAD] # Reescreve o histórico de commits do projeto.
 ```
 
 ### Git cherry-pick
