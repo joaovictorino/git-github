@@ -71,6 +71,106 @@ git fetch # Busca atualizações do repositório remoto, sem alterar o repositó
 git stash --message=[mensagem descritiva do stash] # Salva suas alterações atuais em um armazenamento temporário.
 git stash list
 git stash pop
+git stash drop
 ````
 
 ## Aula 02
+
+### Git revert
+````sh
+git revert [id commit] # Desfaz o commit diretamente no repositório.
+````
+
+### Git show
+```sh
+git show [id commit] # Mostra detalhadamente o commit.
+```
+
+### Git restore
+```sh
+git restore --source [id commit] [caminho arquivo] # Desfaz mudanças em um arquivo e um commit específico.
+```
+
+### Git checkout
+```sh
+git checkout [id commit] # Navega pelo histórico do projeto, assim como em branchs e tags.
+git checkout [branch]
+git checkout [nome da tag]
+```
+
+### Git branch
+```sh
+git branch [nome do branch] # Cria um novo branch a partir do branch atual que estamos.
+git branch -d [nome do branch] # Apaga um branch localmente.
+```
+
+### Git switch
+```sh
+git switch [nome branch] # Navega entre branchs assim como o "git checkout".
+```
+
+### Git push
+```sh
+git push [origem remota] [nome do branch] # Empurra commits e branch para uma origem remota.
+git push [origem remota] --delete [nome do branch] # Apaga um branch na origem remota.
+git push --tags
+git push --all
+git push --force
+```
+
+### Git merge
+```sh
+git merge [nome do branch] # Busca os commits de outro branch mesclando com o branch atual.
+```
+
+### Git log
+```sh
+git log --graph # Mostra o histórico de commit e merges com branchs que foram feitos.
+```
+
+### Git tag
+```sh
+git tag [nome da tag] -m [mensagem da tag] # Cria uma marcação no histórico do projeto, uma etiqueta vinculada a um commit.
+git tag [nome da tag] [codigo commit] -m [mensagem da tag]
+```
+
+### Git clone
+```sh
+git clone [caminho no disco do repositório] # Pode clonar repositórios remotos e locais.
+```
+
+### Git init
+```sh
+git init # Inicializa uma pasta para o git.
+git init --bare # Inicializa uma pasta para o git como servidor.
+```
+
+### Git remote
+```sh
+git remote -v # Lista, cadastra e remove as origens remotas.
+git remote add [nome da origem] [endereço]
+git remote remove [nome da origem]
+```
+
+### Git blame
+```sh
+git blame [caminho do arquivo] # Mostra quem criou ou alterou cada linha do arquivo.
+```
+
+### Git rebase
+```sh
+git rebase [nome do branch] # Busca os commits e mescla com o repositório atual, mexendo no histórico.
+git rebase -i [ponteiro HEAD] # Reescreve o histórico do projeto.
+```
+
+### Git cherry-pick
+```sh
+git cherry-pick [id commit] # Busca um commit de qualquer branch e mescla com o atual.
+```
+
+### Git reset
+```sh
+git reset --soft [ponteiro HEAD] # Apaga commit do repositório, trazendo para staging, working directory ou removendo de vez.
+git reset --mixed [ponteiro HEAD]
+git reset --hard [ponteiro HEAD]
+```
