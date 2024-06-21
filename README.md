@@ -36,5 +36,6 @@
 11. [Entendendo git blame](https://gist.github.com/joaovictorino/4531b1c6b9b9613e833a1aa303e7b673)   
 12. [Atualizando meu branch](https://gist.github.com/joaovictorino/0470cc0ed1b65241a49dea120d89c6d7)   
 13. [Unindo meus commits](https://gist.github.com/joaovictorino/0fed2fcb007e07fd6436e3c70ff6322a)   
-14. [Buscando um commit em outro branch](https://gist.github.com/joaovictorino/7a6cb6907b3d73e0729cf95357b021cb)   
-15. [Desfazendo commits](https://gist.github.com/joaovictorino/13c13a73e6e82f46a07c138bdb09f1aa)   
+14. [Unindo commits no merge](https://gist.github.com/joaovictorino/69482a70deb54075b19348ee78ef78ff)   
+15. [Buscando um commit em outro branch](https://gist.github.com/joaovictorino/7a6cb6907b3d73e0729cf95357b021cb)   
+16. [Desfazendo commits](https://gist.github.com/joaovictorino/13c13a73e6e82f46a07c138bdb09f1aa)   
